@@ -1,2 +1,2 @@
-# My Github Actions Demo Project#8
+# My Github Actions Project#8
 
